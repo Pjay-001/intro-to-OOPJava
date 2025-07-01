@@ -1,4 +1,4 @@
-public class Accountant extends User{
+public abstract class Accountant extends User{
     
     @Override
     String getPermissions() {
